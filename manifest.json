@@ -1,7 +1,7 @@
 {
   "name": "PirateBay",
   "short_name": "PirateBay",
-  "start_url": "./index.html",
+  "start_url": "https://piratebay.space/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
