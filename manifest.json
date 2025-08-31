@@ -1,7 +1,8 @@
 {
   "name": "PirateBay",
   "short_name": "PirateBay",
-  "start_url": "https://piratebay.space/",
+  "start_url": "https://metacomicsolutions.github.io/piratebay/forward.html",
+  "scope": "https://metacomicsolutions.github.io/piratebay/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -18,4 +19,3 @@
     }
   ]
 }
-
